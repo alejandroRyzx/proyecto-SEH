@@ -90,7 +90,7 @@ Sistema automatizado de control de acceso y monitoreo de disponibilidad de espac
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/proyecto-SEH.git
+git clone https://github.com/alejandroRyzx/proyecto-SEH.git
 cd proyecto-SEH
 ```
 
